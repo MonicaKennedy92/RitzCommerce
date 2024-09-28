@@ -9,4 +9,4 @@ This project is a mobile application for purchasing football gear. Below are som
 ![Helmets Page](https://github.com/MonicaKennedy92/RitzCommerce/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-09-27%20at%2022.44.09.png)
 
 ### Screenshot 3 - Brands Page
-![Brands Page](https://github.com/MonicaKennedy92/RitzCommerce/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-09-27%20at%2022.44.14.png)
+![Brands Page](https://github.com/MonicaKennedy92/RitzCommerce/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-09-27%20at%2022.56.09.png)
