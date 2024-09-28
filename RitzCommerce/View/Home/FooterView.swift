@@ -20,7 +20,7 @@ struct FooterView: View {
         .foregroundColor(.gray)
         .layoutPriority(0)
       
-      Text("Copyright © Robert Petras\nAll right reserved")
+      Text("Copyright © Monica Kennedy\nAll right reserved")
         .font(.footnote)
         .fontWeight(.bold)
         .foregroundColor(.gray)
